@@ -1,0 +1,35 @@
+{
+  "name": "admiral",
+  "version": "0.0.0",
+  "description": "Http router git revision using seaport",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/truongsinh/admiral.git"
+  },
+  "keywords": [
+    "seaport",
+    "router",
+    "distributed",
+    "git",
+    "revision",
+    "semver",
+    "balancer"
+  ],
+  "author": "TruongSinh Tran-Nguyen <i@truongsinh.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truongsinh/admiral/issues"
+  },
+  "homepage": "https://github.com/truongsinh/admiral",
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "expect.js": "~0.2.0"
+  },
+  "dependencies": {
+    "seaport": "~1.8.0"
+  }
+}
