@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/truongsinh/admiral",
   "devDependencies": {
-    "mocha": "~1.17.0",
-    "expect.js": "~0.2.0"
+    "mocha": "~6.2.0",
+    "expect.js": "~0.3.1"
   },
   "dependencies": {
-    "seaport": "~1.8.0"
+    "seaport": "~2.0.9"
   }
 }
